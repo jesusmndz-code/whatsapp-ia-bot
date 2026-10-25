@@ -1,0 +1,24 @@
+{
+  "_nota": "Negocio ficticio de ejemplo. Precios en soles (S/), solo de referencia interna: el bot no los muestra.",
+  "tortas": {
+    "15": 90,
+    "25": 140,
+    "40": 210
+  },
+  "bebidas": {
+    "1_peso_y_digestion": {
+      "pack_7_dias": 189,
+      "fibra_andina": 69,
+      "te_quemador": 79
+    },
+    "2_energia": {
+      "maca_power": 75,
+      "shot_verde": 59
+    },
+    "3_bienestar": {
+      "calma_noche": 72,
+      "colageno_glow": 119,
+      "defensas_camu": 65
+    }
+  }
+}

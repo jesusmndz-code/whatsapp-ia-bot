@@ -1,0 +1,29 @@
+{
+  "name": "whatsapp-ia-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp con IA (Claude) y notas de voz para negocios: pedidos por cuestionario, asesoría y avisos al dueño",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch-path=src src/index.js",
+    "tunnel": "ngrok http 3000"
+  },
+  "keywords": [
+    "whatsapp",
+    "ia",
+    "voz",
+    "agentes",
+    "marketing"
+  ],
+  "author": "Jesús Mendoza",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}

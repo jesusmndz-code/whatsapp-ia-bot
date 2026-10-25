@@ -1,0 +1,46 @@
+{
+  "_instrucciones": "Ficha de cada producto (negocio ficticio de ejemplo). Las claves coinciden con catalogo.json. Si un campo queda vacío, la IA dirá que un asesor dará ese detalle.",
+  "pack_7_dias": {
+    "que_es": "Programa de 7 días que combina Fibra Andina, Té Quemador y Shot Verde con una guía de alimentación para empezar a bajar de peso y medidas.",
+    "ingredientes": "Incluye 7 sobres de Fibra Andina, 7 de Té Quemador y 7 de Shot Verde, más la guía de comidas.",
+    "modo_de_uso": "Shot Verde en ayunas, Fibra Andina antes del almuerzo y Té Quemador a media tarde, siguiendo la guía incluida."
+  },
+  "fibra_andina": {
+    "que_es": "Bebida con fibra soluble que ayuda a la digestión y da sensación de saciedad.",
+    "ingredientes": "Linaza molida, avena, inulina de yacón y manzana deshidratada.",
+    "modo_de_uso": "1 sobre en 250 ml de agua fría, 15 minutos antes del almuerzo. Tomar con abundante agua durante el día."
+  },
+  "te_quemador": {
+    "que_es": "Té caliente que apoya el metabolismo como parte de una dieta balanceada y ejercicio.",
+    "ingredientes": "Té verde, jengibre, canela y limón.",
+    "modo_de_uso": "1 sobre en una taza de agua caliente a media tarde. No tomar después de las 6 p. m. por su contenido de cafeína.",
+    "advertencias": "Contiene cafeína. No recomendado en embarazo, lactancia ni para menores de 15 años."
+  },
+  "maca_power": {
+    "que_es": "Batido energizante para días largos de estudio o trabajo.",
+    "ingredientes": "Maca negra, cacao, plátano deshidratado y canela.",
+    "modo_de_uso": "1 sobre en 250 ml de leche o bebida vegetal, por la mañana.",
+    "advertencias": "No recomendado en embarazo."
+  },
+  "shot_verde": {
+    "que_es": "Bebida verde para empezar el día con vitaminas y minerales.",
+    "ingredientes": "Espinaca, kale, manzana verde, kion y limón.",
+    "modo_de_uso": "1 sobre en 150 ml de agua fría, en ayunas."
+  },
+  "calma_noche": {
+    "que_es": "Infusión relajante para descansar mejor.",
+    "ingredientes": "Manzanilla, valeriana, toronjil y lavanda.",
+    "modo_de_uso": "1 sobre en una taza de agua caliente, 30 minutos antes de dormir.",
+    "advertencias": "No combinar con medicamentos para dormir sin consultar a un médico."
+  },
+  "colageno_glow": {
+    "que_es": "Bebida de colágeno hidrolizado para piel, cabello y uñas.",
+    "ingredientes": "Colágeno hidrolizado, vitamina C de camu camu y biotina.",
+    "modo_de_uso": "1 sobre en 200 ml de agua fría, por la noche."
+  },
+  "defensas_camu": {
+    "que_es": "Bebida rica en vitamina C para apoyar las defensas.",
+    "ingredientes": "Camu camu, acerola, kion y miel deshidratada.",
+    "modo_de_uso": "1 sobre en 200 ml de agua fría, a media mañana."
+  }
+}
